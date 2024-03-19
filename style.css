@@ -5,3 +5,7 @@ main {
 div {
     width: 200px;
 }
+
+#box-2:hover {
+    border: 2px dashed black;
+}
